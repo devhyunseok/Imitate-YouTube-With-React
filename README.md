@@ -9,8 +9,6 @@
 
 ## Getting Started
 
-**Set environments**
-
 ```sh
 $ npm install
 $ npm start
